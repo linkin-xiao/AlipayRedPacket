@@ -7,5 +7,6 @@
 将项目的展示页面文件放在项目仓库的gh-pages分支的根目录下，并且命名为index.html，必须以html为扩展名。
 3、自此，即可通过http://userName.github.io/repoName访问你的项目demo页面了。
 
-# 本网页访问链接为：http://linkin-xiao.github.io/AlipayRedPacket
+# 本网页访问链接为
+http://linkin-xiao.github.io/AlipayRedPacket
 
